@@ -31,6 +31,8 @@ The output will be saved in the working directory.
 
 ## Results
 You can find our pre-trained results on 4 datasets in the Trained folders.
+All the files were saved using torch.save function.
+Use torch.load function to view.
 
 ## Our team
 
