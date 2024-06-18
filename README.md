@@ -29,6 +29,9 @@ python train_NAS.py
 ```
 The output will be saved in the working directory.
 
+## Results
+You can find our pre-trained results on 4 datasets in the Trained folders.
+
 ## Our team
 
 - **[Cao Minh Tue](https://github.com/tue147)** - *Leader*
